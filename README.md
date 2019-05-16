@@ -1,3 +1,3 @@
 # mattzab.github.io
 
-# An Open-Directory style Organizaion system.
+## An Open-Directory style Organizaion system.
