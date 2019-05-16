@@ -1,4 +1,3 @@
 # mattzab.github.io
 
-# Project Status:
-Live on GitHub
+# An Open-Directory style Organizaion system.
